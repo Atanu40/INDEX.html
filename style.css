@@ -1,0 +1,185 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+
+}
+.profile-image1{
+    width: 1470px;
+    height: 600px;
+    margin: 2px;
+    
+
+}
+.containing{
+    
+   
+    max-width: 10px;
+    float: left;
+     margin:0px ;
+     padding:5px;
+     
+    
+}
+
+.side-pic{
+
+    height: 15000 px;
+    width: 10 px;
+}
+.side-pic1{
+
+   height: 300px;
+   width: 590px;
+}
+.side-pic2{
+    width: 480px;
+    height: 380px;
+   
+ }
+ .side-pic3{
+   height:300px;
+   width: 453px;
+   
+ }
+
+
+
+
+.container{
+
+    background-color: aquamarine;
+    max-width: 1000px;
+    max-height: initial;
+     margin:0 auto;
+     float: right;
+}
+
+.profile-image{
+
+    height: 150px;
+    width: 120px;
+    border: 3px solid white;
+    padding: 10px;
+    margin: 2px;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 10px;
+
+}
+h1,h2,h3,h4,h5,h6{
+
+    color: #11829e;
+}
+.header-contact{
+    
+    float: right;
+    padding: 10;
+    
+    
+
+}
+.header-contact a{
+    text-decoration:none;
+    color:#11829e;
+    font: bold;
+
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: rgb(74, 67, 173);
+}
+.div-clear{
+
+    clear: both;
+}
+hr{
+    border:solid,black,13px;
+    width: 100%;
+    margin: 20 px auto;
+    border-bottom: none;
+}
+/*----------------
+personal section start 
+-------------------*/
+#About-Aust{
+
+}
+.left-div{
+    width: 20%;
+    margin: 5px;
+    float: left;
+}
+.right-left{
+    width:70%;
+    float: left;
+    
+    
+}
+.contain{
+
+    background-color: aquamarine;
+    max-width: 2000px;
+    max-height: initial;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.common-hr{
+    border:solid,black,1px;
+    width: 100%;
+    margin: 20 px auto;
+    border-bottom: none;
+}
+.right-left1{
+    width:70%;
+    float: left;
+    margin: 5px;
+     
+}
+.right-left1 a{
+    text-decoration:none;
+    color:#ac2071;
+    font: bold;
+
+}
+.right-left1 a:hover{
+    text-decoration: underline;
+    color: rgb(74, 67, 173);
+}
+.contain1{
+
+    background-color: aquamarine;
+    max-width: 1000px;
+    max-height: initial;
+     margin:0 auto;
+}
+.right-left2{
+
+    width:60%;
+    float: left;
+    margin: 5px;
+}
+
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    text-decoration:none;
+    color:white;
+    margin: 20px;
+}
+.bottom-container p{
+
+    color:white;
+    margin-top: 10px;
+}
+
